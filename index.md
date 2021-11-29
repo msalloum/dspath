@@ -1,12 +1,13 @@
-## Welcome to GitHub Pages
+## Data Science Career Pathways in the Inland Empire (DS-PATH) 
 
-You can use the [editor on GitHub](https://github.com/msalloum/dspath/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Overview
 
-### Markdown
+Sponsored by National Science Foundation's Harnessing the Data Revolution Data Science Corps, (HDR DSC Award #), this collaborative program establishes pathways for data science connecting three main public higher education institutions in California. The partnership created shared coursework, seamless pathways, and a summer fellowship program that leverage real-world projects and professional training. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+ data-generating processes and the role of measurement, ethics and privacy, information-processing tools for harnessing the power of big data, and the oral and written communication skills necessary for pursuing effective professional careers in the field. 
+
+
 
 ```markdown
 Syntax highlighted code block
@@ -32,6 +33,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/msalloum/dspath/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Contact
+dspath@ucr.edu
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
